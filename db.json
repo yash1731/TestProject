@@ -1,0 +1,46 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "yash"
+    },
+    {
+      "id": 2,
+      "title": "gagu-server",
+      "author": "gagu"
+    },
+    {
+      "id": 3,
+      "title": "mom-server",
+      "author": "swati",
+      "address": "London",
+      "country": "India"
+    },
+    {
+      "id": 4,
+      "title": "son-server",
+      "author": "Reyansh",
+      "address": "Laindon",
+      "country": "England"
+    },
+    {
+      "author": "Davina",
+      "id": "5",
+      "title": "REST API"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "Yash-Dew"
+  },
+  "address": {
+    "city": "London "
+  }
+}
